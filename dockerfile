@@ -4,3 +4,4 @@ MAINTAINER zhanghui
 RUN apt-get update
 RUN apt install net-tools
 RUN apt-get install git
+RUN apt-get install vim
